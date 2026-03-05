@@ -19,9 +19,9 @@ Expense Tracker helps users take full control of their personal finances. Log in
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard
+### Splash Screen
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard Screen" width="300"/>
+  <img src="Splash Screen.png" alt="Splash Screen" width="300"/>
 </p>
 
 ### 🔐 Login & Sign Up
