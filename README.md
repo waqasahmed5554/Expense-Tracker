@@ -26,23 +26,27 @@ Expense Tracker helps users take full control of their personal finances. Log in
 
 ### 🔐 Login & Sign Up
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Screen" width="300"/>
+  <img src="login.jpeg" alt="Login Screen" width="300"/>
   &nbsp;&nbsp;
-  <img src="screenshots/signup.png" alt="Sign Up Screen" width="300"/>
+  <img src="signup.jpeg" alt="Sign Up Screen" width="300"/>
+</p>
+### Dashboard
+<p align="center">
+  <img src="dashboard.jpeg" alt="dashboard Screen" width="300"/>
 </p>
 
 ### 💳 Transactions & Add Expense
 <p align="center">
-  <img src="screenshots/transactions.png" alt="Transactions Screen" width="300"/>
+  <img src="transactions.jpeg" alt="Transactions Screen" width="300"/>
   &nbsp;&nbsp;
   <img src="screenshots/add_expense.png" alt="Add Expense Screen" width="300"/>
 </p>
 
 ### 📊 Reports & Settings
 <p align="center">
-  <img src="screenshots/reports.png" alt="Reports Screen" width="300"/>
+  <img src="reports.jpeg" alt="Reports Screen" width="300"/>
   &nbsp;&nbsp;
-  <img src="screenshots/settings.png" alt="Settings Screen" width="300"/>
+  <img src="settings.jpeg" alt="Settings Screen" width="300"/>
 </p>
 
 > 📁 Add your screenshots to the `screenshots/` folder and they will appear here automatically.
