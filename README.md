@@ -44,7 +44,7 @@ Expense Tracker helps users take full control of their personal finances. Log in
 
 ### 📊 Reports & Settings
 <p align="center">
-  <img src="reports.jpeg" alt="Reports Screen" width="300"/>
+  <img src="report.jpeg" alt="Reports Screen" width="300"/>
   &nbsp;&nbsp;
   <img src="settings.jpeg" alt="Settings Screen" width="300"/>
 </p>
