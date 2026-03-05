@@ -1,6 +1,6 @@
 # Expense-Tracker
 [Download Project](https://drive.google.com/file/d/1rTdnh2mvyHraBkrIqxoj2swuHVU5yCw2/view?usp=sharing)
-# 💸 Expense Tracker — Flutter App
+# 💸 Expense Tracker - Flutter App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -142,7 +142,7 @@ expense_tracker/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/expense_tracker.git
+   git clone https://github.com/waqasahmed5554/expense_tracker.git
    cd expense_tracker
    ```
 
@@ -249,15 +249,11 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 👨‍💻 Developer
 
-**Waqas Ahmed** — AI Developer & Full Stack Engineer
+**Waqas Ahmed** - AI Developer & Flutter Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-waqasahmed5554-181717?style=flat&logo=github)](https://github.com/waqasahmed5554)
 [![Email](https://img.shields.io/badge/Email-waqasahmed.rk@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waqasahmed.rk@gmail.com)
