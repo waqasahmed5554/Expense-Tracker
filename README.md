@@ -37,7 +37,7 @@ Expense Tracker helps users take full control of their personal finances. Log in
 
 ### 💳 Transactions & Add Expense
 <p align="center">
-  <img src="transactions.jpeg" alt="Transactions Screen" width="300"/>
+  <img src="transaction.jpeg" alt="Transactions Screen" width="300"/>
   &nbsp;&nbsp;
   <img src="screenshots/add_expense.png" alt="Add Expense Screen" width="300"/>
 </p>
